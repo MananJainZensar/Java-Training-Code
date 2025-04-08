@@ -11,7 +11,7 @@ public class mainn {
 		 a1.push(3);
 		 a1.push(65);
 		 
-		 System.out.println("The elements added are: ",a1);
+//		 System.out.println("The elements added are: ",a1);
 	    }
 }
 

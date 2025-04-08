@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Attach to Edge",
+            "port": 9222,
+            "request": "attach",
+            "type": "msedge",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ComposistionTest",
+            "request": "launch",
+            "mainClass": "com.app.ComposistionTest",
+            "projectName": "02_Demo"
+        },
+        {
+            "type": "java",
+            "name": "SingleToneTest",
+            "request": "launch",
+            "mainClass": "com.app.SingleToneTest",
+            "projectName": "02_Demo"
+        },
+        {
+            "type": "java",
+            "name": "MainForShape",
+            "request": "launch",
+            "mainClass": "Abstraction.MainForShape",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "Assignment5.Question1.stud.fact",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Cloning.Test",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Enum.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Enum.Student",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Test(1)",
+            "request": "launch",
+            "mainClass": "Exception_Handling.Test",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "FileHandle",
+            "request": "launch",
+            "mainClass": "FileHandling.FileHandle",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "HasA.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "InterfaceTest",
+            "request": "launch",
+            "mainClass": "Interface.InterfaceTest",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "Maps.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Maps",
+            "request": "launch",
+            "mainClass": "Maps.Maps",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Account",
+            "request": "launch",
+            "mainClass": "assignment01.Account",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "assignment01.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "MainForComplex",
+            "request": "launch",
+            "mainClass": "assignment01.MainForComplex",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "MainForQuestion7",
+            "request": "launch",
+            "mainClass": "assignment01.MainForQuestion7",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "mainn",
+            "request": "launch",
+            "mainClass": "assignment01.mainn",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "assignment02.Bank",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "assignment02.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "assignment03.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "MainForDessertShop",
+            "request": "launch",
+            "mainClass": "assignment03.MainForDessertShop",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "assignment04.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "MainForCompare",
+            "request": "launch",
+            "mainClass": "assignment04.MainForCompare",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Test(2)",
+            "request": "launch",
+            "mainClass": "assignment04.Test",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "assignment04.question4.Comparator.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "assignment04.question4.Main",
+            "projectName": "05_Demo"
+        },
+        {
+            "type": "java",
+            "name": "GCTest",
+            "request": "launch",
+            "mainClass": "com.app.GCTest",
+            "projectName": "05_Demo"
+        }
+    ]
+}
